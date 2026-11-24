@@ -1,6 +1,5 @@
-name = "kp-consultantsy"
+name = "kp-consultants"
 pages_build_output_dir = "."
 
 [vars]
 ADMIN_AUTH_DOMAIN = "admin.kpconsultantsy.local"
-
